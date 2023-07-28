@@ -42,3 +42,4 @@ String theory is absolutely true (ha)
 
 ## New conflict
 x = a + b + A + B + C
+x = a + b + A + B + c
