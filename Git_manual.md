@@ -39,6 +39,3 @@ Today i learned to use **Markdown** to create something-something. This small ma
 
 String theory is a lie (ha)
 String theory is absolutely true (ha)
-
-
-x = a + b + A
