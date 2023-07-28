@@ -36,3 +36,5 @@ Today i learned to use **Markdown** to create something-something. This small ma
 [Язык разметки Markdown](https://doka.guide/tools/markdown/)
 
 ## 2. Branch stuff
+
+String theory is absolutely true (ha)
