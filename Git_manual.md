@@ -34,3 +34,5 @@ If you want to switch to a previous version of the file, you can use the followi
 Today i learned to use **Markdown** to create something-something. This small manual was prepared using the following guide:
 
 [Язык разметки Markdown](https://doka.guide/tools/markdown/)
+
+## Branch stuff
